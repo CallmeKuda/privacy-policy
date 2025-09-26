@@ -1,0 +1,21 @@
+Privacy Policy for Focus Guard
+
+Focus Guard does not collect, store, or share any personal or sensitive user data.
+
+Data Storage:
+- The extension stores the list of blocked websites and their timer settings locally using Chrome's storage API.
+- No data is transmitted outside the user’s device.
+
+Permissions:
+- "storage" is used to remember blocked sites and timers.
+- "alarms" is used to manage automatic unblocking.
+- "declarativeNetRequest" is used to redirect specified sites.
+- No permission is used for tracking, profiling, or analytics.
+
+Data Sharing:
+- Focus Guard does not share or sell data to any third party.
+
+Analytics:
+- Focus Guard does not use analytics or collect usage metrics.
+
+If you have any questions, contact us at: [your email or GitHub issues link].
